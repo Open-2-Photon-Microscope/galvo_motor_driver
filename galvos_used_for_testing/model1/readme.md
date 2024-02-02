@@ -1,0 +1,2 @@
+02/02/2024 - the initial part of this project consists fo testing different commercially available galvo pairs and characterise them. 
+This model comes from https://www.ebay.co.uk/itm/404515372053 (~200 Pounds when purchased)
